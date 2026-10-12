@@ -8,11 +8,11 @@ My journey in Information Technology has led me to develop a passion for cyberse
 # Skills
 
 Skill	Associated Project
-Active directory detection lab with SIEM and password spray |	<a href="https://google.com">AD Detection Lab with SIEM and password spray</a>
-Security Automation with Shuffle SOAR |	<a href="https://google.com">Security Automation with Shuffle SOAR</a> 
-Incident Response Planning and Execution | <a href="https://google.com">Incident Response Planning and Execution</a> 
-Case Management with TheHive | <a href="https://google.com">Case Management with TheHive</a>
-Scripting and Automation for Threat Mitigation | <a href="https://google.com">Scripting and Automation for Threat Mitigation</a>
+Active directory detection lab with SIEM and password spray |	<a href="https://github.com">AD Detection Lab with SIEM and password spray</a>
+Security Automation with Shuffle SOAR |	<a href="https://github.com">Security Automation with Shuffle SOAR</a> 
+Incident Response Planning and Execution | <a href="https://github.com">Incident Response Planning and Execution</a> 
+Case Management with TheHive | <a href="https://gighub.com">Case Management with TheHive</a>
+Scripting and Automation for Threat Mitigation | <a href="https://github.com">Scripting and Automation for Threat Mitigation</a>
 
 Tools
 
